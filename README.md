@@ -68,11 +68,6 @@ Trabajo Final/
   └── papa_juego.sql      # Script SQL para la base de datos
 ```
 
-## Créditos
-- Desarrollado por: Jesus Cirotti
-- Curso: Programación en Python y SQL
-- Año: 2024
-
 ## Notas
 - El juego requiere Python 3.7+.
 - Asegúrate de tener los recursos multimedia en la carpeta `archivos/`.
